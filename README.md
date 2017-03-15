@@ -1,7 +1,7 @@
 # Cambodia-Xcode-Theme
 Cambodia-Xcode-Custom Theme
 
-![Blackboard][image-1]
+![Alt text](https://image.ibb.co/nnaM6F/Screen_Shot_2017_03_15_at_12_03_37_PM.png "Theme 1")
 
 Installation
 ---- 
@@ -20,7 +20,3 @@ Installation
     $ cp *.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 
 
-
-
-
-[image-1]:	https://ibb.co/csSCDv
