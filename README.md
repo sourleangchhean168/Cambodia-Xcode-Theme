@@ -17,6 +17,11 @@ List of some customize theme for Xcode IDE.
 
 ![Alt text](https://image.ibb.co/nnaM6F/Screen_Shot_2017_03_15_at_12_03_37_PM.png "SLC DarkNight")
 
+##### SLC Beautiful Eye
+
+![Alt text](https://image.ibb.co/gZkB8v/Screen_Shot_2017_03_17_at_1_21_00_PM.png")
+
+
 Installation
 ---- 
 
