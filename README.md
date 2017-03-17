@@ -19,7 +19,7 @@ List of some customize theme for Xcode IDE.
 
 ##### SLC Beautiful Eye
 
-![Alt text](https://image.ibb.co/gZkB8v/Screen_Shot_2017_03_17_at_1_21_00_PM.png")
+![Alt text](https://image.ibb.co/gZkB8v/Screen_Shot_2017_03_17_at_1_21_00_PM.png "SLC Beautiful Eye")
 
 
 Installation
