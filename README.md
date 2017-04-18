@@ -31,6 +31,9 @@ Installation
     $ cd Cambodia-Xcode-Theme
     $ ./install.sh # And then restart Xcode
 
+### Documentation Blog
+    * https://sourleangchhean168.github.io/Cambodia-Xcode-Theme/
+
 ### Alternative way
 
     $ git clone https://github.com/sourleangchhean168/Cambodia-Xcode-Theme.git
